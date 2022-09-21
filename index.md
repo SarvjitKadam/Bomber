@@ -8,7 +8,7 @@ Press Run(Green Button in upper right corner).
 Program screen will appear in less than 4 seconds (It's Based on Your Internet Connection)
 ```
 ```js
-To spam sms-Type 1 and press enter
+To Send spam sms-Type 1 and press enter
 ```
 ```js
 Enter Country code without + sign(Country code for India is 91).
@@ -29,5 +29,5 @@ Type 1 again and press enter.
 When new screen will appear you have to press enter again.
 ```
 ```js
-Congrats YOu Have Succesfully Started My Bomber.
+Congrats You Have Succesfully Started My Bomber.
 ```
